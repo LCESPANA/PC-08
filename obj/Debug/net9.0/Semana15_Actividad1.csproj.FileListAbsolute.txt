@@ -1,0 +1,14 @@
+C:\Users\lesth\Documents\2025\Semana15_Actividad1\bin\Debug\net9.0\Semana15_Actividad1.exe
+C:\Users\lesth\Documents\2025\Semana15_Actividad1\bin\Debug\net9.0\Semana15_Actividad1.deps.json
+C:\Users\lesth\Documents\2025\Semana15_Actividad1\bin\Debug\net9.0\Semana15_Actividad1.runtimeconfig.json
+C:\Users\lesth\Documents\2025\Semana15_Actividad1\bin\Debug\net9.0\Semana15_Actividad1.dll
+C:\Users\lesth\Documents\2025\Semana15_Actividad1\bin\Debug\net9.0\Semana15_Actividad1.pdb
+C:\Users\lesth\Documents\2025\Semana15_Actividad1\obj\Debug\net9.0\Semana15_Actividad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lesth\Documents\2025\Semana15_Actividad1\obj\Debug\net9.0\Semana15_Actividad1.AssemblyInfoInputs.cache
+C:\Users\lesth\Documents\2025\Semana15_Actividad1\obj\Debug\net9.0\Semana15_Actividad1.AssemblyInfo.cs
+C:\Users\lesth\Documents\2025\Semana15_Actividad1\obj\Debug\net9.0\Semana15_Actividad1.csproj.CoreCompileInputs.cache
+C:\Users\lesth\Documents\2025\Semana15_Actividad1\obj\Debug\net9.0\Semana15_Actividad1.dll
+C:\Users\lesth\Documents\2025\Semana15_Actividad1\obj\Debug\net9.0\refint\Semana15_Actividad1.dll
+C:\Users\lesth\Documents\2025\Semana15_Actividad1\obj\Debug\net9.0\Semana15_Actividad1.pdb
+C:\Users\lesth\Documents\2025\Semana15_Actividad1\obj\Debug\net9.0\Semana15_Actividad1.genruntimeconfig.cache
+C:\Users\lesth\Documents\2025\Semana15_Actividad1\obj\Debug\net9.0\ref\Semana15_Actividad1.dll
