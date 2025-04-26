@@ -1,0 +1,23 @@
+class Program 
+{
+    static void Main(String[] args)
+    {
+        Console.WriteLine("ingrese el valor de A:  ");
+        int a = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Ingrese el valor de B ");
+        int b = Convert.ToInt32(Console.ReadLine());
+
+        if (a == b)
+        {
+            Console.WriteLine("Es igual");
+        }    
+        else if (a > b)
+        {
+            Console.WriteLine("Es mayor");
+        }
+        else 
+        {
+            Console.WriteLine("es menor");
+        }
+    }
+}
