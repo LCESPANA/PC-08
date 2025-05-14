@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿using System.Diagnostics.CodeAnalysis;
 using System.Dynamic;
 using System.Runtime.InteropServices;
@@ -262,5 +263,26 @@ namespace Actividad1
             alumno.MostrarMenu();
             
         }
+=======
+﻿using System;
+public class Program
+{
+    int numero;
+    string cadena;
+    public static void Main()
+    {
+        Program objetoProgram = new Program(3, "hola");
+        objetoProgram.show();
+    }
+    Program(int numero, string cadena)
+    {
+        this.numero = numero;
+        this.cadena = cadena;
+    }
+    void show()
+    {
+        Console.WriteLine(this.numero);
+        Console.WriteLine(this.cadena);
+>>>>>>> 207148bd3a38867e08e403eed13befed8bb1523d
     }
 }

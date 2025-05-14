@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "NEwVVfj0py8=",
   "success": true,
   "projectFilePath": "C:\\Users\\lesth\\Documents\\2025\\pensamiento computacional\\Semana18_Actividad1_Le\\Semana18_Actividad1_Le.csproj",
+=======
+  "dgSpecHash": "PqKFo1/TIRA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lesth\\Documents\\2025\\Semana15_Actividad1\\Semana15_Actividad1.csproj",
+>>>>>>> 207148bd3a38867e08e403eed13befed8bb1523d
   "expectedPackageFiles": [],
   "logs": []
 }
