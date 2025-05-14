@@ -1,0 +1,14 @@
+C:\Users\lesth\Documents\2025\pensamiento computacional\Semana18_Actividad1_Le\obj\Debug\net9.0\Semana18_Actividad1_Le.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lesth\Documents\2025\pensamiento computacional\Semana18_Actividad1_Le\obj\Debug\net9.0\Semana18_Actividad1_Le.AssemblyInfoInputs.cache
+C:\Users\lesth\Documents\2025\pensamiento computacional\Semana18_Actividad1_Le\obj\Debug\net9.0\Semana18_Actividad1_Le.AssemblyInfo.cs
+C:\Users\lesth\Documents\2025\pensamiento computacional\Semana18_Actividad1_Le\obj\Debug\net9.0\Semana18_Actividad1_Le.csproj.CoreCompileInputs.cache
+C:\Users\lesth\Documents\2025\pensamiento computacional\Semana18_Actividad1_Le\bin\Debug\net9.0\Semana18_Actividad1_Le.exe
+C:\Users\lesth\Documents\2025\pensamiento computacional\Semana18_Actividad1_Le\bin\Debug\net9.0\Semana18_Actividad1_Le.deps.json
+C:\Users\lesth\Documents\2025\pensamiento computacional\Semana18_Actividad1_Le\bin\Debug\net9.0\Semana18_Actividad1_Le.runtimeconfig.json
+C:\Users\lesth\Documents\2025\pensamiento computacional\Semana18_Actividad1_Le\bin\Debug\net9.0\Semana18_Actividad1_Le.dll
+C:\Users\lesth\Documents\2025\pensamiento computacional\Semana18_Actividad1_Le\bin\Debug\net9.0\Semana18_Actividad1_Le.pdb
+C:\Users\lesth\Documents\2025\pensamiento computacional\Semana18_Actividad1_Le\obj\Debug\net9.0\Semana18_Actividad1_Le.dll
+C:\Users\lesth\Documents\2025\pensamiento computacional\Semana18_Actividad1_Le\obj\Debug\net9.0\refint\Semana18_Actividad1_Le.dll
+C:\Users\lesth\Documents\2025\pensamiento computacional\Semana18_Actividad1_Le\obj\Debug\net9.0\Semana18_Actividad1_Le.pdb
+C:\Users\lesth\Documents\2025\pensamiento computacional\Semana18_Actividad1_Le\obj\Debug\net9.0\Semana18_Actividad1_Le.genruntimeconfig.cache
+C:\Users\lesth\Documents\2025\pensamiento computacional\Semana18_Actividad1_Le\obj\Debug\net9.0\ref\Semana18_Actividad1_Le.dll
